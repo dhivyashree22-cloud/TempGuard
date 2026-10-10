@@ -1,0 +1,6 @@
+{
+  "name": "TempGuard — Intelligent Temperature Excursion Analysis System",
+  "description": "Intelligent temperature excursion analysis system for cold chain and temperature-sensitive storage monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
